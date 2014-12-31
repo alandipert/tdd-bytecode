@@ -15,7 +15,7 @@ Assemble and test for the first time:
 Then, edit and save [Add.j](src/adder/Add.j) - you should see assembly
 and testing happen again.
 
-You can get audio feedback with `boot speak test`.
+You can also get audio feedback with `boot speak test`.
 
 [Boot]: http://boot-clj.com/
 [Jasmin]: http://jasmin.sourceforge.net/

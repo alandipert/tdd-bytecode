@@ -23,6 +23,7 @@
 (deftask test
   "Compile and test the assembly program."
   []
-  (comp (jasmin)
+  (comp (watch)
+        (jasmin)
         (load-classes)
         (boot-test/test :namespaces '#{adder.tests})))
