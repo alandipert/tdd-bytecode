@@ -1,4 +1,4 @@
-# adder
+# tdd-bytecode
 
 A [Boot] project that demonstrates how to continuously compile
 [Jasmin] assembler and test it with Clojure.  You could use a setup
