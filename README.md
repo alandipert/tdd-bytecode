@@ -10,12 +10,12 @@ Uses the [boot-test] and [boot-jasmin] tasks.
 
 Assemble and test for the first time:
 
-    boot test
+    boot watch test
 
 Then, edit and save [Add.j](src/adder/Add.j) - you should see assembly
 and testing happen again.
 
-You can also get audio feedback with `boot speak test`.
+You can also get audio feedback with `boot watch speak test`.
 
 [Boot]: http://boot-clj.com/
 [Jasmin]: http://jasmin.sourceforge.net/
